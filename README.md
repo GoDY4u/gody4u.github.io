@@ -3,5 +3,3 @@
 ```
 https://gody4u.github.io/MyPage/
 ```
-
-[Ir a MyPage]([https://www.google.com](https://gody4u.github.io/MyPage/))
